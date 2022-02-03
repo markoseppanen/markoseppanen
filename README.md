@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Marko Seppänen. I currently study Information Technology(BEng) at Helsinki Metropolia University of Applied Sciences.
+My name is Marko. I currently study Information Technology(BEng) at Helsinki Metropolia University of Applied Sciences.
 
 ## Languages
 - Javascript
