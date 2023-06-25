@@ -7,8 +7,8 @@ My name is Marko. I currently study Information Technology(BEng) at Helsinki Met
 - HTML
 - CSS
 - SQL
-- Kotlin (basic knowledge)
-- Swift (basic knowledge)
+- Kotlin
+- Swift
 
 ## Frameworks and Techs
 - React.js / React Native
